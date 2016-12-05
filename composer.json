@@ -1,0 +1,19 @@
+{
+    "name": "mchampaneri/laraui-components",
+    "description": "Frequently used ui components that are dependant on the return from the database and have some kind of uniformity in the reprsentation. For example tables, list. By the way we are going to increase components as we find.",
+    "type": "laravel-dependant",
+    "license": "opensource",
+    "keywords": ["laravel","Ui Components"],
+    "authors": [
+        {
+            "name": "Manish",
+            "email": "m.champaneri.20@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mchampaneri\\laraui-components\\": "src/"
+        }
+    },
+    "require": {}
+}
