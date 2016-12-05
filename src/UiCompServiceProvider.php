@@ -1,6 +1,6 @@
 <?php
 
-namespace Package;
+namespace  mchampaneri\larauicomp;
 
 use Illuminate\Support\ServiceProvider;
 
